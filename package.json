@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/syoeung/NewsScraping.git"
+    "url": "git+https://github.com/nicholasmerritt99/ScreenScraper.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/syoeung/NewsScraping/issues"
+    "url": "https://github.com/nicholasmerritt99/ScreenScraperissues"
   },
-  "homepage": "https://github.com/syoeung/NewsScraping#readme",
+  "homepage": "https://github.com/nicholasmerritt99/ScreenScraper#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cheerio": "^1.0.0-rc.3",
